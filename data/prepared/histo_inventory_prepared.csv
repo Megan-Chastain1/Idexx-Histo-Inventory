@@ -1,0 +1,44 @@
+barcode,short_name,vendor,quantity,min_stock_level,max_in_stock,unit,qty_per_unit,catalog_number,notes,date
+Blue Slides (Charged),BlueSld+,Leica,1,3,5,Case,,3800458CL,,02/04/2025 19:17:23
+White Slides (Charged),WhtSld+,Leica,16,4,5,Case,,3800455,,09/04/2025 13:03:29
+Pink Slides (uncharged),PinkSld-,Leica,5,0,0,Case,,3800007,Phasing out,02/04/2025 19:16:09
+Green Slides (uncharged),GrnSld-,Leica,6,0,0,Case,,3800005,Phasing out,02/04/2025 19:17:37
+Aqua Cassettes,AquaCas,Epredia,2,2,3,Case,1800.0,8150818LM,,20/01/2025 21:16:37
+Lilac Cassettes,LilacCas,Epredia,1,2,3,Case,1800.0,8150918LM,,20/01/2025 21:23:13
+Green Cassettes,GrnCas,Epredia,1,2,3,Case,1800.0,8150518LM,,
+Orange Cassettes,OrgCas,Epredia,2,1,2,Case,1800.0,8150618LM,,23/01/2025 19:30:13
+Coverslip Film,CoverFilm,Sakura,3,2,3,Box,,4770,,08/04/2025 12:40:21
+Microtome Blades,Blades,Sakura,2,1,3,Case,10.0,4689,,02/04/2025 13:07:47
+100 Slide box,100 Sld Bx,Mercedes,43,5,75,Stack (of 8),,Multiple by color,"Yellow, Blue, Green, Red, White",27/03/2025 17:05:20
+Medium Gloves,Md. Gloves,Amazon,5,2,10,box,,B00DNBT4M8,,24/03/2025 18:23:25
+Small Gloves,Sm. Gloves,Amazon,6,2,10,box,,B00DNBT61M,,24/03/2025 18:23:08
+100 % Alcohol,100%,Epredia/fisher,8,3,12,bottle,,22046344,,04/04/2025 13:03:39
+95% Alcohol,95%,Epredia/Fisher,24,3,12,bottle,,22046346,,04/04/2025 13:04:25
+Xylene,Xylene,Epredia/Fisher,5,3,12,bottle,,X3P-1GAL,,04/04/2025 13:04:12
+Formalin 5 gal,Form. 5 gal,Fisher,5,1,6,cube,,,,
+Formalin 2.5L,Form. 2.5L,Epredia/Fisher,4,2,8,bottle,,57-35,,
+Formic Acid,Formic Acid,VWR,5,1,4,bottle,,,,
+Sodium Citrate,Sodium citrate,Fisher,5,1,4,bottle,,,,
+Large Gloves,Lrg. Gloves,Amazon,6,2,10,box,,B009LAJYJI,,24/03/2025 18:23:40
+Embedding paraffin,Red wax,Lieca,6,1,5,box,,,,24/03/2025 18:29:39
+Infiltrating paraffin,Black wax,Leica,6,1,5,box,,,,24/03/2025 18:30:03
+Formaldehyde Filters,Form. filters,Epredia/Fisher,6,1,6,each,,,,
+Epredia carbon filters,E. carbon filters,Epredia/Fisher,4,1,6,each,,,,
+Razor Blades,Razor blades,VWR,3,1,5,box,,55411-050,,24/03/2025 18:33:46
+Biopsy bags,Bx bags,Fisher,3,1,5,box,,,,24/03/2025 18:25:51
+Freeze spray,Freeze spray,Statlab,3,1,6,each,,,,
+RNAse free water 1L,rnase H2O,VWR,6,2,6,each,,7732-18-5,,01/04/2025 18:50:48
+RNAse free spray,rnase spray,VWR,2,1,2,each,,78901-43,,24/03/2025 18:32:46
+Forced air spray,Forced air,Fisher,3,1,6,each,,,,
+OCT,OCT,Fisher,5,2,6,each,,,,24/03/2025 18:29:12
+Formalex,Formalex,Newcomer,1,1,2,cube,,,,
+Bleach,Bleach,Amazon,3,1,2,each,,,,
+Dymo address labels,Dymo labels,Office Depot,8,1,6,box,,,,
+Dymo 1x1 labels,Dymo 1x1,Office Depot,5,1,6,box,,,,
+Wax tray,Wax tray,Epredia/Fisher,5,1,5,each,,,,24/03/2025 18:31:27
+Cryo molds large,Lrg cryo mold,Fisher,2,1,4,box,,4557,,24/03/2025 18:26:35
+Cryo molds medium,Md cryo mold,Fisher,2,1,4,box,,4566,,24/03/2025 18:28:33
+Cryo molds Small,Sm cryo mold,Fisher,2,1,4,box,,4565,,24/03/2025 18:28:55
+Gauze,Gauze,Mercedes,38,2,25,,,PRA P157114,,04/04/2025 19:35:21
+Havel 22 carbon steel surgical blades,Surgical blades,Havel,12,2,10,,,FSC22,,31/03/2025 15:21:33
+Acetone,acetone,Fisher,2,1,2,,,,,

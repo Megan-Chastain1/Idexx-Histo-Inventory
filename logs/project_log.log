@@ -1,0 +1,182 @@
+2025-04-12 11:24:34.236 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 11:24:34.236 | INFO     | __main__:main:41 - Starting data preparation...
+2025-04-12 11:24:34.237 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Idexx\Idexx_Histo_Inventory\data\raw\histology inventory sheet.csv.
+2025-04-12 11:24:34.243 | INFO     | __main__:main:43 - Data preparation complete.
+2025-04-12 11:27:08.292 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 11:27:08.292 | INFO     | __main__:main:41 - Starting data preparation...
+2025-04-12 11:27:08.293 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Idexx\Idexx_Histo_Inventory\data\raw\histology inventory sheet.csv.
+2025-04-12 11:27:08.298 | INFO     | __main__:main:43 - Data preparation complete.
+2025-04-12 11:37:33.040 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 11:37:33.041 | INFO     | __main__:main:41 - Starting data preparation...
+2025-04-12 11:37:33.042 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Idexx\Idexx_Histo_Inventory\data\raw\customers_data.csv.
+2025-04-12 11:37:33.043 | ERROR    | __main__:read_raw_data:29 - File not found: C:\Idexx\Idexx_Histo_Inventory\data\raw\customers_data.csv
+2025-04-12 11:37:33.046 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Idexx\Idexx_Histo_Inventory\data\raw\products_data.csv.
+2025-04-12 11:37:33.047 | ERROR    | __main__:read_raw_data:29 - File not found: C:\Idexx\Idexx_Histo_Inventory\data\raw\products_data.csv
+2025-04-12 11:37:33.048 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Idexx\Idexx_Histo_Inventory\data\raw\sales_data.csv.
+2025-04-12 11:37:33.049 | ERROR    | __main__:read_raw_data:29 - File not found: C:\Idexx\Idexx_Histo_Inventory\data\raw\sales_data.csv
+2025-04-12 11:37:33.050 | INFO     | __main__:main:45 - Data preparation complete.
+2025-04-12 11:38:34.492 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 11:38:34.493 | INFO     | __main__:main:41 - Starting data preparation...
+2025-04-12 11:38:34.493 | INFO     | __main__:read_raw_data:26 - Reading raw data from C:\Idexx\Idexx_Histo_Inventory\data\raw\histo_inventory.csv.
+2025-04-12 11:38:34.499 | INFO     | __main__:main:43 - Data preparation complete.
+2025-04-12 18:27:39.919 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 18:27:39.921 | INFO     | __main__:main:121 - Starting data warehouse creation...
+2025-04-12 18:27:39.943 | INFO     | __main__:create_customer_table:51 - customer table created.
+2025-04-12 18:27:39.953 | INFO     | __main__:create_product_table:68 - product table created.
+2025-04-12 18:27:39.962 | INFO     | __main__:create_sale_table:90 - sale table created.
+2025-04-12 18:27:39.963 | INFO     | __main__:create_dw:109 - Data warehouse created successfully.
+2025-04-12 18:27:39.964 | INFO     | __main__:main:123 - Data warehouse creation complete.
+2025-04-12 18:44:07.527 | INFO     | logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 18:44:07.527 | INFO     | __main__:main:162 - ==================================
+2025-04-12 18:44:07.528 | INFO     | __main__:main:163 - STARTING data_prep_inventory.py
+2025-04-12 18:44:07.528 | INFO     | __main__:main:164 - ==================================
+2025-04-12 18:44:07.529 | INFO     | __main__:main:166 - Root project folder: C:\Idexx
+2025-04-12 18:44:07.530 | INFO     | __main__:main:167 - data / raw folder: C:\Idexx\data\raw
+2025-04-12 18:44:07.530 | INFO     | __main__:main:168 - data / prepared folder: C:\Idexx\data\prepared
+2025-04-12 18:44:07.531 | INFO     | __main__:main:169 - scripts folder: C:\Idexx\scripts
+2025-04-12 18:44:07.532 | INFO     | __main__:read_raw_data:65 - FUNCTION START: read_raw_data with file_name=histo_inventory.csv
+2025-04-12 18:44:07.532 | INFO     | __main__:read_raw_data:67 - Reading data from C:\Idexx\data\raw\histo_inventory.csv
+2025-04-12 18:49:05.324 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 18:49:05.325 | INFO     | __main__:main:161 - ==================================
+2025-04-12 18:49:05.325 | INFO     | __main__:main:162 - STARTING data_prep_inventory.py
+2025-04-12 18:49:05.326 | INFO     | __main__:main:163 - ==================================
+2025-04-12 18:49:05.326 | INFO     | __main__:main:165 - Root project folder: C:\Idexx\Idexx_Histo_Inventory
+2025-04-12 18:49:05.327 | INFO     | __main__:main:166 - data / raw folder: C:\Idexx\Idexx_Histo_Inventory\data\raw
+2025-04-12 18:49:05.327 | INFO     | __main__:main:167 - data / prepared folder: C:\Idexx\Idexx_Histo_Inventory\data\prepared
+2025-04-12 18:49:05.327 | INFO     | __main__:main:168 - scripts folder: C:\Idexx\Idexx_Histo_Inventory\scripts
+2025-04-12 18:49:05.328 | INFO     | __main__:read_raw_data:64 - FUNCTION START: read_raw_data with file_name=histo_inventory.csv
+2025-04-12 18:49:05.328 | INFO     | __main__:read_raw_data:66 - Reading data from C:\Idexx\Idexx_Histo_Inventory\data\raw\histo_inventory.csv
+2025-04-12 18:49:05.347 | INFO     | __main__:read_raw_data:68 - Loaded dataframe with 50 rows and 11 columns
+2025-04-12 18:49:05.348 | INFO     | __main__:main:179 - Initial dataframe columns: Barcode, Short Name, Vendor, Quantity, Min Stock Level, Max in stock, Unit [unopened], Qty Per Unit, Catalog Number, Notes, Date
+2025-04-12 18:49:05.349 | INFO     | __main__:main:180 - Initial dataframe shape: (50, 11)
+2025-04-12 18:49:05.352 | INFO     | __main__:remove_duplicates:96 - FUNCTION START: remove_duplicates with dataframe shape=(50, 11)
+2025-04-12 18:49:05.366 | INFO     | __main__:remove_duplicates:100 - Removed 0 duplicate rows
+2025-04-12 18:49:05.367 | INFO     | __main__:remove_duplicates:101 - 50 records remaining after removing duplicates.
+2025-04-12 18:49:05.367 | INFO     | __main__:handle_missing_values:115 - FUNCTION START: handle_missing_values with dataframe shape=(50, 11)
+2025-04-12 18:49:05.369 | INFO     | __main__:handle_missing_values:119 - Total missing values before handling: 126
+2025-04-12 18:49:05.370 | INFO     | __main__:handle_missing_values:128 - Total missing values after handling: 126
+2025-04-12 18:49:05.371 | INFO     | __main__:handle_missing_values:129 - 50 records remaining after handling missing values.
+2025-04-12 18:49:05.371 | INFO     | __main__:remove_outliers:143 - FUNCTION START: remove_outliers with dataframe shape=(50, 11)
+2025-04-12 18:49:05.372 | INFO     | __main__:remove_outliers:151 - Removed 0 outlier rows
+2025-04-12 18:49:05.373 | INFO     | __main__:remove_outliers:152 - 50 records remaining after removing outliers.
+2025-04-12 18:49:05.373 | INFO     | __main__:save_prepared_data:79 - FUNCTION START: save_prepared_data with file_name=histo_inventory_prepared.csv, dataframe shape=(50, 11)
+2025-04-12 18:49:05.377 | INFO     | __main__:save_prepared_data:82 - Data saved to C:\Idexx\Idexx_Histo_Inventory\data\prepared\histo_inventory_prepared.csv
+2025-04-12 18:49:05.377 | INFO     | __main__:main:203 - ==================================
+2025-04-12 18:49:05.378 | INFO     | __main__:main:204 - FINISHED prepare_inventory_data.py
+2025-04-12 18:49:05.379 | INFO     | __main__:main:205 - ==================================
+2025-04-12 18:52:16.312 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 18:52:16.312 | INFO     | __main__:main:161 - ==================================
+2025-04-12 18:52:16.313 | INFO     | __main__:main:162 - STARTING data_prep_inventory.py
+2025-04-12 18:52:16.313 | INFO     | __main__:main:163 - ==================================
+2025-04-12 18:52:16.314 | INFO     | __main__:main:165 - Root project folder: C:\Idexx\Idexx_Histo_Inventory
+2025-04-12 18:52:16.314 | INFO     | __main__:main:166 - data / raw folder: C:\Idexx\Idexx_Histo_Inventory\data\raw
+2025-04-12 18:52:16.315 | INFO     | __main__:main:167 - data / prepared folder: C:\Idexx\Idexx_Histo_Inventory\data\prepared
+2025-04-12 18:52:16.316 | INFO     | __main__:main:168 - scripts folder: C:\Idexx\Idexx_Histo_Inventory\scripts
+2025-04-12 18:52:16.316 | INFO     | __main__:read_raw_data:64 - FUNCTION START: read_raw_data with file_name=histo_inventory.csv
+2025-04-12 18:52:16.317 | INFO     | __main__:read_raw_data:66 - Reading data from C:\Idexx\Idexx_Histo_Inventory\data\raw\histo_inventory.csv
+2025-04-12 18:52:16.334 | INFO     | __main__:read_raw_data:68 - Loaded dataframe with 50 rows and 11 columns
+2025-04-12 18:52:16.335 | INFO     | __main__:main:179 - Initial dataframe columns: Barcode, Short Name, Vendor, Quantity, Min Stock Level, Max in stock, Unit [unopened], Qty Per Unit, Catalog Number, Notes, Date
+2025-04-12 18:52:16.336 | INFO     | __main__:main:180 - Initial dataframe shape: (50, 11)
+2025-04-12 18:52:16.338 | INFO     | __main__:remove_duplicates:96 - FUNCTION START: remove_duplicates with dataframe shape=(50, 11)
+2025-04-12 18:52:16.350 | INFO     | __main__:remove_duplicates:100 - Removed 0 duplicate rows
+2025-04-12 18:52:16.350 | INFO     | __main__:remove_duplicates:101 - 50 records remaining after removing duplicates.
+2025-04-12 18:52:16.351 | INFO     | __main__:handle_missing_values:115 - FUNCTION START: handle_missing_values with dataframe shape=(50, 11)
+2025-04-12 18:52:16.353 | INFO     | __main__:handle_missing_values:119 - Total missing values before handling: 126
+2025-04-12 18:52:16.354 | INFO     | __main__:handle_missing_values:128 - Total missing values after handling: 126
+2025-04-12 18:52:16.355 | INFO     | __main__:handle_missing_values:129 - 50 records remaining after handling missing values.
+2025-04-12 18:52:16.356 | INFO     | __main__:remove_outliers:143 - FUNCTION START: remove_outliers with dataframe shape=(50, 11)
+2025-04-12 18:52:16.357 | INFO     | __main__:remove_outliers:151 - Removed 0 outlier rows
+2025-04-12 18:52:16.357 | INFO     | __main__:remove_outliers:152 - 50 records remaining after removing outliers.
+2025-04-12 18:52:16.358 | INFO     | __main__:save_prepared_data:79 - FUNCTION START: save_prepared_data with file_name=histo_inventory_prepared.csv, dataframe shape=(50, 11)
+2025-04-12 18:52:16.363 | INFO     | __main__:save_prepared_data:82 - Data saved to C:\Idexx\Idexx_Histo_Inventory\data\prepared\histo_inventory_prepared.csv
+2025-04-12 18:52:16.364 | INFO     | __main__:main:203 - ==================================
+2025-04-12 18:52:16.364 | INFO     | __main__:main:204 - FINISHED prepare_inventory_data.py
+2025-04-12 18:52:16.365 | INFO     | __main__:main:205 - ==================================
+2025-04-12 19:02:12.601 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 19:02:12.602 | INFO     | __main__:main:162 - ==================================
+2025-04-12 19:02:12.603 | INFO     | __main__:main:163 - STARTING data_prep_inventory.py
+2025-04-12 19:02:12.603 | INFO     | __main__:main:164 - ==================================
+2025-04-12 19:02:12.604 | INFO     | __main__:main:166 - Root project folder: C:\Idexx\Idexx_Histo_Inventory
+2025-04-12 19:02:12.605 | INFO     | __main__:main:167 - data / raw folder: C:\Idexx\Idexx_Histo_Inventory\data\raw
+2025-04-12 19:02:12.606 | INFO     | __main__:main:168 - data / prepared folder: C:\Idexx\Idexx_Histo_Inventory\data\prepared
+2025-04-12 19:02:12.606 | INFO     | __main__:main:169 - scripts folder: C:\Idexx\Idexx_Histo_Inventory\scripts
+2025-04-12 19:02:12.607 | INFO     | __main__:read_raw_data:64 - FUNCTION START: read_raw_data with file_name=histo_inventory.csv
+2025-04-12 19:02:12.607 | INFO     | __main__:read_raw_data:66 - Reading data from C:\Idexx\Idexx_Histo_Inventory\data\raw\histo_inventory.csv
+2025-04-12 19:02:12.613 | INFO     | __main__:read_raw_data:68 - Loaded dataframe with 50 rows and 11 columns
+2025-04-12 19:02:12.613 | INFO     | __main__:main:180 - Initial dataframe columns: Barcode, Short Name, Vendor, Quantity, Min Stock Level, Max in stock, Unit [unopened], Qty Per Unit, Catalog Number, Notes, Date
+2025-04-12 19:02:12.614 | INFO     | __main__:main:181 - Initial dataframe shape: (50, 11)
+2025-04-12 19:02:12.615 | INFO     | __main__:remove_duplicates:96 - FUNCTION START: remove_duplicates with dataframe shape=(50, 11)
+2025-04-12 19:02:12.618 | INFO     | __main__:remove_duplicates:100 - Removed 0 duplicate rows
+2025-04-12 19:02:12.619 | INFO     | __main__:remove_duplicates:101 - 50 records remaining after removing duplicates.
+2025-04-12 19:02:12.619 | INFO     | __main__:handle_missing_values:115 - FUNCTION START: handle_missing_values with dataframe shape=(50, 11)
+2025-04-12 19:02:12.621 | INFO     | __main__:handle_missing_values:119 - Total missing values before handling: 126
+2025-04-12 19:02:12.622 | INFO     | __main__:handle_missing_values:128 - Total missing values after handling: 126
+2025-04-12 19:02:12.623 | INFO     | __main__:handle_missing_values:129 - 50 records remaining after handling missing values.
+2025-04-12 19:02:12.623 | INFO     | __main__:remove_outliers:143 - FUNCTION START: remove_outliers with dataframe shape=(50, 11)
+2025-04-12 19:02:12.628 | INFO     | __main__:remove_outliers:152 - Removed 7 outlier rows
+2025-04-12 19:02:12.629 | INFO     | __main__:remove_outliers:153 - 43 records remaining after removing outliers.
+2025-04-12 19:02:12.629 | INFO     | __main__:save_prepared_data:79 - FUNCTION START: save_prepared_data with file_name=histo_inventory_prepared.csv, dataframe shape=(43, 11)
+2025-04-12 19:02:12.632 | INFO     | __main__:save_prepared_data:82 - Data saved to C:\Idexx\Idexx_Histo_Inventory\data\prepared\histo_inventory_prepared.csv
+2025-04-12 19:02:12.633 | INFO     | __main__:main:204 - ==================================
+2025-04-12 19:02:12.634 | INFO     | __main__:main:205 - FINISHED prepare_inventory_data.py
+2025-04-12 19:02:12.635 | INFO     | __main__:main:206 - ==================================
+2025-04-12 19:36:44.830 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 19:36:44.831 | INFO     | __main__:main:76 - Starting data warehouse creation...
+2025-04-12 19:36:44.832 | ERROR    | __main__:create_histo_inventory_table:47 - Error creating customer table: near ")": syntax error
+2025-04-12 19:36:44.833 | INFO     | __main__:create_dw:64 - Data warehouse created successfully.
+2025-04-12 19:36:44.833 | INFO     | __main__:main:78 - Data warehouse creation complete.
+2025-04-12 19:37:58.466 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 19:37:58.467 | INFO     | __main__:main:76 - Starting data warehouse creation...
+2025-04-12 19:37:58.468 | ERROR    | __main__:create_histo_inventory_table:47 - Error creating histo_inventory table: near ")": syntax error
+2025-04-12 19:37:58.469 | INFO     | __main__:create_dw:64 - Data warehouse created successfully.
+2025-04-12 19:37:58.470 | INFO     | __main__:main:78 - Data warehouse creation complete.
+2025-04-12 19:46:24.450 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 19:46:24.451 | INFO     | __main__:main:80 - Starting data warehouse creation...
+2025-04-12 19:46:24.453 | ERROR    | __main__:create_inventory_table:52 - Error creating sale table: incomplete input
+2025-04-12 19:46:24.453 | INFO     | __main__:create_dw:68 - Data warehouse created successfully.
+2025-04-12 19:46:24.454 | INFO     | __main__:main:82 - Data warehouse creation complete.
+2025-04-12 19:47:52.459 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 19:47:52.460 | INFO     | __main__:main:80 - Starting data warehouse creation...
+2025-04-12 19:47:52.462 | ERROR    | __main__:create_inventory_table:52 - Error creating inventory table: incomplete input
+2025-04-12 19:47:52.463 | INFO     | __main__:create_dw:68 - Data warehouse created successfully.
+2025-04-12 19:47:52.463 | INFO     | __main__:main:82 - Data warehouse creation complete.
+2025-04-12 19:48:46.349 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 19:48:46.350 | INFO     | __main__:<module>:33 - Existing database data\dw\histo_inventory.db deleted.
+2025-04-12 19:48:46.351 | INFO     | __main__:main:80 - Starting data warehouse creation...
+2025-04-12 19:48:46.353 | ERROR    | __main__:create_inventory_table:52 - Error creating inventory table: incomplete input
+2025-04-12 19:48:46.354 | INFO     | __main__:create_dw:68 - Data warehouse created successfully.
+2025-04-12 19:48:46.354 | INFO     | __main__:main:82 - Data warehouse creation complete.
+2025-04-12 19:49:54.715 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 19:49:54.716 | INFO     | __main__:<module>:33 - Existing database data\dw\histo_inventory.db deleted.
+2025-04-12 19:49:54.717 | INFO     | __main__:main:80 - Starting data warehouse creation...
+2025-04-12 19:49:54.724 | INFO     | __main__:create_inventory_table:50 - inventory table created.
+2025-04-12 19:49:54.725 | INFO     | __main__:create_dw:68 - Data warehouse created successfully.
+2025-04-12 19:49:54.726 | INFO     | __main__:main:82 - Data warehouse creation complete.
+2025-04-12 19:57:47.919 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 19:57:47.920 | INFO     | __main__:<module>:33 - Existing database data\dw\histo_inventory.db deleted.
+2025-04-12 19:57:47.921 | INFO     | __main__:main:80 - Starting data warehouse creation...
+2025-04-12 19:57:47.935 | INFO     | __main__:create_inventory_table:50 - inventory table created.
+2025-04-12 19:57:47.936 | INFO     | __main__:create_dw:68 - Data warehouse created successfully.
+2025-04-12 19:57:47.937 | INFO     | __main__:main:82 - Data warehouse creation complete.
+2025-04-12 20:08:53.899 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 20:08:53.900 | INFO     | __main__:<module>:33 - Existing database data\dw\histo_inventory.db deleted.
+2025-04-12 20:08:53.900 | INFO     | __main__:main:86 - Starting data warehouse creation...
+2025-04-12 20:08:53.909 | INFO     | __main__:create_inventory_table:56 - inventory table created.
+2025-04-12 20:08:53.910 | INFO     | __main__:create_dw:74 - Data warehouse created successfully.
+2025-04-12 20:08:53.910 | INFO     | __main__:main:88 - Data warehouse creation complete.
+2025-04-12 20:09:29.475 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 20:09:29.476 | INFO     | __main__:main:86 - Starting data warehouse creation...
+2025-04-12 20:09:29.486 | INFO     | __main__:create_inventory_table:56 - inventory table created.
+2025-04-12 20:09:29.487 | INFO     | __main__:create_dw:74 - Data warehouse created successfully.
+2025-04-12 20:09:29.488 | INFO     | __main__:main:88 - Data warehouse creation complete.
+2025-04-12 20:12:33.015 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 20:12:33.016 | INFO     | __main__:<module>:33 - Existing database data\dw\histo_inventory.db deleted.
+2025-04-12 20:12:33.017 | INFO     | __main__:main:86 - Starting data warehouse creation...
+2025-04-12 20:12:33.025 | INFO     | __main__:create_inventory_table:56 - inventory table created.
+2025-04-12 20:12:33.026 | INFO     | __main__:create_dw:74 - Data warehouse created successfully.
+2025-04-12 20:12:33.027 | INFO     | __main__:main:88 - Data warehouse creation complete.
+2025-04-12 20:13:26.331 | INFO     | utils.logger:<module>:39 - Logging to file: logs\project_log.log
+2025-04-12 20:13:26.332 | INFO     | __main__:main:86 - Starting data warehouse creation...
+2025-04-12 20:13:26.340 | INFO     | __main__:create_inventory_table:56 - inventory table created.
+2025-04-12 20:13:26.342 | INFO     | __main__:create_dw:74 - Data warehouse created successfully.
+2025-04-12 20:13:26.343 | INFO     | __main__:main:88 - Data warehouse creation complete.
